@@ -6,25 +6,25 @@
 # --- Required options --- #
 
 # Name of website
-title: Shivani Kharva
+title: AAA Tax Group
 
 # Your name to show in the footer
 author: Shivani Kharva
 
 # --- List of links in the navigation bar --- #
 navbar-links:
-  About Me: "/"
-  Experience: "experience/"
-  Projects: "projects/"
-  Skills: "skills/"
-  For Fun: "forfun/"
+  Home: "/"
+  #Experience: "experience/"
+  #Projects: "projects/"
+  #Skills: "skills/"
+  #For Fun: "forfun/"
 # Test: "test/"
 
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/images/headshot.jpg"
+#avatar: "/images/headshot.jpg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 # round-avatar: true
@@ -39,15 +39,15 @@ avatar: "/images/headshot.jpg"
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "shivanikharva5@gmail.com"
+  email: "aaataxgroup@gmail.com"
 # facebook: deanattali
-  github: shivanikharva
+  #github: shivanikharva
 # twitter: daattali
 # patreon: DeanAttali
 # youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
-  linkedin: shivani-kharva-58172b1b8
+  #linkedin: shivani-kharva-58172b1b8
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -70,10 +70,10 @@ social-network-links:
 # --- General options --- #
 
 # Select which social network share links to show in posts
-share-links-active:
+#share-links-active:
 #  twitter: true
 #  facebook: true
-  linkedin: true
+ # linkedin: true
 #  vk: false
 
 # How to display the link to your website in the footer
